@@ -63,7 +63,7 @@ $instagram = "https://www.instagram.com/otherkimi";
   <div class="container">
     <img class="profile-pic" src="img/emu.png" alt="Foto Profil">
     <h1>Tentang Saya</h1>
-    <p>Halo, nama saya <?php echo $nama; ?>. Saya adalah <?php echo $pekerjaan; ?>. Saya senang <?php echo $minat; ?>.</p>
+    <p>Halo, nama saya <?php echo $nama; ?>. Saya adalah <?php echo $pekerjaan; ?>. Saya senang <?php echo $minat; ?> dan saya sedang mempelajari laravel.</p>
     <div class="social-icons">
       <a href="<?php echo $facebook; ?>" target="_blank">FB</a>
       <a href="<?php echo $twitter; ?>" target="_blank">TW</a>
